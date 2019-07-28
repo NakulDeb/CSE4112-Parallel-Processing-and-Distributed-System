@@ -4,5 +4,5 @@
 <br />
 <b>Run:<</b> <file_name>
   
-  <p style="padding-right: 5px;">My Text Here</p>.
+  <p style="padding-right: 50px;">My Text Here</p>.
 
